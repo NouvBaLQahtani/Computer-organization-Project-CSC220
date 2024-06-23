@@ -33,6 +33,8 @@ The implementation of the 8-bit Function Unit is done using VHDL (VHSIC Hardware
 
 The ALU performs the arithmetic and logical operations, while the Shifter handles the shift operations. The Control Unit manages the selection of the operations based on the input selection codes.
 
+<img width="743" alt="Screenshot 2024-06-23 at 4 03 10 AM" src="https://github.com/NouvBaLQahtani/Computer-organization-Project-CSC220/assets/106460665/cbcc85fe-76a0-4f3e-86db-d755c83f032b">
+
 ## Testing
 The designed Function Unit has been thoroughly tested with various input combinations, and the results have been verified against the expected outputs. The test cases cover all the operations listed in the table above.
 
